@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adel\\Documents\\YNOV\\test\\Workspace\\TodoApi\\TodoApi.csproj": {}
+    "c:\\Users\\adel\\Documents\\YNOV\\test\\Workspace\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adel\\Documents\\YNOV\\test\\Workspace\\TodoApi\\TodoApi.csproj": {
+    "c:\\Users\\adel\\Documents\\YNOV\\test\\Workspace\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adel\\Documents\\YNOV\\test\\Workspace\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "c:\\Users\\adel\\Documents\\YNOV\\test\\Workspace\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\adel\\Documents\\YNOV\\test\\Workspace\\TodoApi\\TodoApi.csproj",
+        "projectPath": "c:\\Users\\adel\\Documents\\YNOV\\test\\Workspace\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\adel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adel\\Documents\\YNOV\\test\\Workspace\\TodoApi\\obj\\",
+        "outputPath": "c:\\Users\\adel\\Documents\\YNOV\\test\\Workspace\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
